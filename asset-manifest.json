@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cau-moblie2501-alarm/static/css/main.e6c13ad2.css",
+    "main.js": "/cau-moblie2501-alarm/static/js/main.5cc6a4a6.js",
+    "static/js/453.1447d9a4.chunk.js": "/cau-moblie2501-alarm/static/js/453.1447d9a4.chunk.js",
+    "index.html": "/cau-moblie2501-alarm/index.html",
+    "main.e6c13ad2.css.map": "/cau-moblie2501-alarm/static/css/main.e6c13ad2.css.map",
+    "main.5cc6a4a6.js.map": "/cau-moblie2501-alarm/static/js/main.5cc6a4a6.js.map",
+    "453.1447d9a4.chunk.js.map": "/cau-moblie2501-alarm/static/js/453.1447d9a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.5cc6a4a6.js"
+  ]
+}
